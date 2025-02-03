@@ -24,7 +24,7 @@ The **Galaxy Generator** is an artistic project built with JavaScript and Three.
 ## Demo
 
 View the live demo of the **Galaxy Generator** at:  
-[Live Demo](https://your-live-demo-link.com)
+[Live Demo](https://galaxy-generator-001.netlify.app/)
 
 ## How to Run Locally
 
